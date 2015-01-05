@@ -34,7 +34,7 @@ if ($EU_MM_V < 6.64) {
 
 WriteMakefile(
    NAME             => "Locale::VersionedMessages",
-   VERSION          => "0.95",
+   VERSION          => "0.96",
    ABSTRACT         => "handle all aspects of the localization process",
    LICENSE          => "perl",
    ($EU_MM_V >= 6.48
